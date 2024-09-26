@@ -17,7 +17,7 @@ def partition(l, r, nums):
  
  
 def quicksort(l, r, nums):
-    if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
+    if len(nums) == 1:  # branch1 생성후 수정한 문장1
         return nums
     if l < r:
         pi = partition(l, r, nums)

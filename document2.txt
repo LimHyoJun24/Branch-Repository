@@ -24,7 +24,7 @@ void merge(int arr[], int l,
 
 	// Merge the temp arrays back
 	// into arr[l..r]
-	// Initial index of first subarray
+	// document2 수정용 문장1
 	i = 0;
 
 	// Initial index of second subarray

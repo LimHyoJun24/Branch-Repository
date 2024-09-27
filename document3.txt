@@ -1,4 +1,4 @@
-#document3용 문장
+#컴퓨터공학과 main document3 conflict 실습용 문장
 import random
 
 print("hello world!")

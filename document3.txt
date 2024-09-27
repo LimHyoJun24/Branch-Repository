@@ -1,4 +1,4 @@
-#document3용 문장
+#document3 merge conflict 실습용 문장
 import random
 
 print("hello world!")
